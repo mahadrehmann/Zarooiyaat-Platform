@@ -29,6 +29,7 @@ Zarooriat is an innovative **full-stack e-commerce platform** designed to enable
    git clone https://github.com/mahadrehmann/Zarooiyaat-Platform.git
    
 2. **Naviagate to the Project Directory:**
+   ```bash
    cd Zarooriyaat-Platform
 
 3. **Install dependencies:**
